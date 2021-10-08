@@ -1,7 +1,7 @@
 # hello-ant
 
 
-ant init
-ant compile
-ant package
-ant clean
+* ant init
+* ant compile
+* ant dist
+* ant clean
