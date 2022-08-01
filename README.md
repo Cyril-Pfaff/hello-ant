@@ -7,4 +7,4 @@
 * ant clean
 
 # Usage
-and clean dist
+ant clean dist
